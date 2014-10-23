@@ -1,0 +1,12 @@
+{
+  "name": "Deft-Net",
+  "description": "The Deft-Net portfolio",
+  "author": "Andrew Sheppard <andrew.sheppard@talbotuw.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.9.7",
+    "mongoose": "^3.8.17",
+    "socket.io": "^1.1.0",
+    "underscore": "^1.7.0"
+  }
+}

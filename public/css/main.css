@@ -1,0 +1,9 @@
+body {
+	padding-top: 50px;
+}
+
+.ddn-va-bottom,
+.ddn-va-bottom a,
+.ddn-va-bottom span {
+	vertical-align: bottom;
+}
